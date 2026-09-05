@@ -1,0 +1,12 @@
+langchain<1.0
+langchain-core<1.0
+python-dotenv
+streamlit
+langchain-chroma<1.0
+langchain-groq<1.0
+langchain-text-splitters<1.0
+protobuf
+langchain-huggingface<1.0
+sentence-transformers
+requests
+beautifulsoup4
